@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology.
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on C/C++ projects.
-- 📫 How to reach me subbajohn44@gmail.com
+- 📫 How to reach me johnsubba404@gmail.com
 
 <!---
 iceman404/iceman404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
