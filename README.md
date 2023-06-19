@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on C/C++ projects.
 - 📫 How to reach me johnsubba404@gmail.com
 # About Me
-Hello there! 👋 I'm [iceman404](https://iceman404.com/){:target="_blank"}, a passionate programmer and lifelong learner. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions to the world of coding.
+Hello there! 👋 I'm <a href="https://iceman404.com/" target="_blank">iceman404</a>, a passionate programmer and lifelong learner. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions to the world of coding.
 
 ## 🌟 My Journey
 I have always been fascinated by the world of technology and the power of coding to create innovative solutions. As a programmer, I strive to continuously expand my knowledge and stay up-to-date with the latest industry trends. I believe in the value of lifelong learning and embrace new challenges with enthusiasm.
