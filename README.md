@@ -1,20 +1,20 @@
 
-# About Me
+## About Me
 **Hello there! 👋 I'm [![Button](https://img.shields.io/badge/iceman404-8A2BE2)](https://iceman404.com), a passionate programmer and lifelong learner.**
 
-## 🌟 My Journey
+### 🌟 **My Journey**
 **I have always been fascinated by the world of technology and the power of coding to create innovative solutions. As a programmer, I strive to continuously expand my knowledge and stay up-to-date with the latest industry trends.**    
 **I believe in the value of lifelong learning and embrace new challenges with enthusiasm.**
 
- ## 💻 Technical Skills
+ ### 💻 Technical Skills
 - **Programming Languages: [![Documentation](https://img.shields.io/badge/C-blue)](https://devdocs.io/c/), [![Documentation](https://img.shields.io/badge/C++-blue)](https://isocpp.org/std/the-standard), [![Documentation](https://img.shields.io/badge/Embedded-C-blue)](http://www.8052mcu.com/), [![Documentation](https://img.shields.io/badge/JAVA-blue)](https://www.oracle.com/java/technologies/javase/jdk17-readme-downloads.html)
 , Python, SQL**  
 - **Technologies and Tools: Git/GitHub**
 
-## 🚀 What I Love
+### 🚀 What I Love
 I'm passionate about turning ideas into reality through coding. I enjoy tackling complex problems and finding elegant solutions.
 
-## 💪 My Strengths
+### 💪 My Strengths
 - Fast Learner: I have a knack for quickly grasping new concepts and technologies, allowing me to adapt and thrive in dynamic environments.  
 - Flexibility: I embrace change and am comfortable working with diverse teams and projects, adapting to different workflows and requirements.  
 - Collaboration: I value teamwork and believe in the power of collective intelligence to deliver exceptional results.  
