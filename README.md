@@ -7,17 +7,17 @@
 **I believe in the value of lifelong learning and embrace new challenges with enthusiasm.**
 
 ### 💻 **Technical Skills**
-- `**Programming Languages:` [![Documentation](https://img.shields.io/badge/C-blue)](https://devdocs.io/c/), [![Documentation](https://img.shields.io/badge/C++-blue)](https://isocpp.org/std/the-standard), [![Documentation](https://img.shields.io/badge/Embedded-C-blue)](http://www.8052mcu.com/), [![Documentation](https://img.shields.io/badge/JAVA-blue)](https://www.oracle.com/java/technologies/javase/jdk17-readme-downloads.html)
+- **`Programming Languages:` [![Documentation](https://img.shields.io/badge/C-blue)](https://devdocs.io/c/), [![Documentation](https://img.shields.io/badge/C++-blue)](https://isocpp.org/std/the-standard), [![Documentation](https://img.shields.io/badge/Embedded-C-blue)](http://www.8052mcu.com/), [![Documentation](https://img.shields.io/badge/JAVA-blue)](https://www.oracle.com/java/technologies/javase/jdk17-readme-downloads.html)
 , Python, SQL**  
-- `**Technologies and Tools:` Git/GitHub**
+- **`Technologies and Tools:` Git/GitHub**
 
 ### 🚀 What I Love
 **I'm passionate about turning ideas into reality through coding. I enjoy tackling complex problems and finding elegant solutions.**
 
 ### 💪 My Strengths
-- `**Fast Learner:` I have a knack for quickly grasping new concepts and technologies, allowing me to adapt and thrive in dynamic environments.**  
-- `**Flexibility:` I embrace change and am comfortable working with diverse teams and projects, adapting to different workflows and requirements.**  
-- `**Collaboration:` I value teamwork and believe in the power of collective intelligence to deliver exceptional results.**  
+- **`Fast Learner:` I have a knack for quickly grasping new concepts and technologies, allowing me to adapt and thrive in dynamic environments.**  
+- **`Flexibility:` I embrace change and am comfortable working with diverse teams and projects, adapting to different workflows and requirements.**  
+- **`Collaboration:` I value teamwork and believe in the power of collective intelligence to deliver exceptional results.**  
 
 <!--
 ## 📚 Open Source Contributions
