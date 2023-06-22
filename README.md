@@ -7,9 +7,9 @@
 **I believe in the value of lifelong learning and embrace new challenges with enthusiasm.**
 
  ## 💻 Technical Skills
-**- Programming Languages: [![Documentation](https://img.shields.io/badge/C-blue)](https://devdocs.io/c/), [![Documentation](https://img.shields.io/badge/C++-blue)](https://isocpp.org/std/the-standard), [![Documentation](https://img.shields.io/badge/Embedded-C-blue)](http://www.8052mcu.com/), [![Documentation](https://img.shields.io/badge/JAVA-blue)](https://www.oracle.com/java/technologies/javase/jdk17-readme-downloads.html)
-, Python, SQL  
-- Technologies and Tools: Git/GitHub**
+- **Programming Languages: [![Documentation](https://img.shields.io/badge/C-blue)](https://devdocs.io/c/), [![Documentation](https://img.shields.io/badge/C++-blue)](https://isocpp.org/std/the-standard), [![Documentation](https://img.shields.io/badge/Embedded-C-blue)](http://www.8052mcu.com/), [![Documentation](https://img.shields.io/badge/JAVA-blue)](https://www.oracle.com/java/technologies/javase/jdk17-readme-downloads.html)
+, Python, SQL**  
+- **Technologies and Tools: Git/GitHub**
 
 ## 🚀 What I Love
 I'm passionate about turning ideas into reality through coding. I enjoy tackling complex problems and finding elegant solutions.
