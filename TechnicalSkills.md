@@ -5,7 +5,5 @@
 - **`Technologies and Tools:`  [![Button](https://img.shields.io/badge/Git-FF5100)](https://git-scm.com/doc) [![Button](https://img.shields.io/badge/GitHub-FFFFFF)](https://docs.github.com/en)**
 -
 -
-.
-.
-.
+-
 [![Button](https://img.shields.io/badge/Main-Menu-003b91)](https://github.com/iceman404)
