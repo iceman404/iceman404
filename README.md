@@ -1,6 +1,5 @@
 
-## About Me
-**Hello there! 👋 I'm [![Button](https://img.shields.io/badge/iceman404-8A2BE2)](https://iceman404.com) a passionate programmer and lifelong learner.**
+[![Button](https://img.shields.io/badge/About-me-9C6644)](https://github.com/iceman404/iceman404/blob/main/AboutMe.md)
 
 ### 🌟 **My Journey**
 **I have always been fascinated by the world of technology and the power of coding to create innovative solutions. As a programmer, I strive to continuously expand my knowledge and stay up-to-date with the latest industry trends.**    
