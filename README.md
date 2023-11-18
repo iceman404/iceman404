@@ -1,5 +1,5 @@
 
-[![Button](https://img.shields.io/badge/About-Me-9C6644)](https://github.com/iceman404/iceman404/blob/main/AboutMe.md) [![Button](https://img.shields.io/badge/Technical-Skills-718355)](https://github.com/iceman404/iceman404/blob/main/TechnicalSkills.md) [![Button](https://img.shields.io/badge/My-Strengths-B5838D)](https://github.com/iceman404/iceman404/blob/main/MyStrengths.md) [![Button](https://img.shields.io/badge/Lets-Connect-8FB8CA)](https://github.com/iceman404/iceman404/blob/main/LetsConnect.md) 
+[![Button](https://img.shields.io/badge/About-Me-008491)](https://github.com/iceman404/iceman404/blob/main/AboutMe.md) [![Button](https://img.shields.io/badge/Technical-Skills-910083)](https://github.com/iceman404/iceman404/blob/main/TechnicalSkills.md) [![Button](https://img.shields.io/badge/My-Strengths-910c00)](https://github.com/iceman404/iceman404/blob/main/MyStrengths.md) [![Button](https://img.shields.io/badge/Lets-Connect-00910d)](https://github.com/iceman404/iceman404/blob/main/LetsConnect.md) 
 <!--
 ## 📚 Open Source Contributions
 I'm an active contributor to the open-source community and believe in the importance of giving back. You'll find some of my contributions and projects here on GitHub.
