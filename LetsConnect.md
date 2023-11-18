@@ -5,8 +5,7 @@
 - **LinkedIn: [![Button](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/john-subba-ic3man404/)**  
 - **Email: [![Button](https://img.shields.io/badge/johnsubba404@gmail.com-09C4D0)](https://mail.google.com/mail/?view=cm&to=johnsubba404@gmail.com)**  
 
-**Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the exciting world of coding together.** 
--
+***Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the exciting world of coding together.*** 
 -
 -
 [![Button](https://img.shields.io/badge/Main-Menu-003b91)](https://github.com/iceman404)
