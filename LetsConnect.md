@@ -7,4 +7,4 @@
 
 **Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the exciting world of coding together.** 
 -
-[![Button](https://img.shields.io/badge/Main-Menu-003b91)](https://github.com/iceman404)
+[![Button](https://img.shields.io/badge/Home-Page-003b91)](https://github.com/iceman404)
