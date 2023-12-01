@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![iceman404's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&theme=gruvbox_light)
 
 ---
-![](https://activity-graph.herokuapp.com/graph?username=iceman404)
+![](https://activity-graph.herokuapp.com/graph?username=iceman404&github-dark)
 
 ---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iceman404)
