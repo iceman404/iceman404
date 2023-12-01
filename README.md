@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+I'm+iceman404-;Welcome+to+my+Github+page...)](https://git.io/typing-svg)
+
+
 
  [![Button](https://img.shields.io/badge/About-Me-008491)](https://github.com/iceman404/iceman404/blob/main/AboutMe.md) [![Button](https://img.shields.io/badge/Technical-Skills-910083)](https://github.com/iceman404/iceman404/blob/main/TechnicalSkills.md) [![Button](https://img.shields.io/badge/My-Strengths-910c00)](https://github.com/iceman404/iceman404/blob/main/MyStrengths.md) [![Button](https://img.shields.io/badge/Let's-Connect-00910d)](https://github.com/iceman404/iceman404/blob/main/LetsConnect.md) [![Button](https://img.shields.io/badge/Happy-Coding-003b91)](https://github.com/iceman404) ![](https://komarev.com/ghpvc/?username=iceman404&style=flat-square&#008597)
 <!--
