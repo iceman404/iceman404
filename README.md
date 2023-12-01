@@ -20,3 +20,5 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iceman404)
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="76" height="76" /></div>
+
