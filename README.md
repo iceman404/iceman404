@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&#008597)
 
-![iceman404's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+![iceman404's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&theme=gruvbox)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=iceman404)
 
