@@ -10,15 +10,22 @@ You can click the Preview link to take a look at your changes.
 `Happy coding! ✨` 
 --->
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&#008597)
+![](https://komarev.com/ghpvc/?username=iceman404&style=flat-square&#008597)
+
+---
 
 ![iceman404's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&theme=gruvbox_light)
 
+---
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=iceman404&theme=gruvbox)
 
+---
 ![](https://activity-graph.herokuapp.com/graph?username=iceman404)
 
+---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iceman404)
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="37" height="37" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="76" height="76" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="76" height="76" /></div>
+---
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="37" height="37" /></div>
 
