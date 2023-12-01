@@ -1,6 +1,6 @@
 <div align="center">
   
- [![](https://readme-typing-svg.demolab.com?font=hack&multiline=true&size=40&color=#00910d&lines=Hello+there+I'm+iceman404;Welcome+to+my+Github+profile...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=hack&size=32&pause=1000&color=41F7EB&random=false&width=527&height=80&lines=Hello+there+I'm+iceman404;Welcome+to+my+Github+Profile...)](https://git.io/typing-svg)
 
   
 </div>
