@@ -17,10 +17,6 @@ You can click the Preview link to take a look at your changes.
 ![iceman404's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&theme=gruvbox_light)
 
 ---
-
-![trophy](https://github-profile-trophy.vercel.app/?username=iceman404&theme=gruvbox)
-
----
 ![](https://activity-graph.herokuapp.com/graph?username=iceman404)
 
 ---
