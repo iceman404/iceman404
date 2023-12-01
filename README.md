@@ -10,3 +10,13 @@ You can click the Preview link to take a look at your changes.
 `Happy coding! ✨` 
 --->
 
+![GitHub Repo Views](https://komarev.com/ghpvc/?username=iceman404)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=iceman404)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iceman404)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iceman404)
+
