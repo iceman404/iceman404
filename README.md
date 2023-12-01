@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 `Happy coding! ✨` 
 --->
 
-![GitHub Repo Views](https://komarev.com/ghpvc/?username=iceman404)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&#008597)
 
-![GitHub Stats](https://github-readme-stats.gruvbox.app/api?username=iceman404&show_icons=true&count_private=true&hide=prs&theme=radical)
+![iceman404's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=iceman404)
 
