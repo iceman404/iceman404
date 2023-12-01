@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=iceman404&theme=gruvbox)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iceman404)
+![](https://activity-graph.herokuapp.com/graph?username=iceman404)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iceman404)
 
