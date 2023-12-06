@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceman404&layout=pie)&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/iceman404/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iceman404" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/iceman404/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=8&card_width=320" />
 </a>
 
 
