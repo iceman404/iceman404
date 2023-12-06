@@ -25,13 +25,13 @@ You can click the Preview link to take a look at your changes.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iceman404" />
 </a>
 <a href="https://github.com/iceman404/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceman404&layout=pie)&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceman404&layout=pie)](https://github.com/iceman404/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=iceman404&theme=github-dark)](https://git.io/streak-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/iceman404/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iceman404)](https://github.com/iceman404/github-readme-stats)
 
 ---
 
