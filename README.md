@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceman404&layout=pie)](https://github.com/iceman404/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=iceman404&theme=github-dark)](https://git.io/streak-stats)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iceman404&layour=compact)](https://github.com/iceman404/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iceman404)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
