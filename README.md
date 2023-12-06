@@ -20,16 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-
-
-<a href="https://github.com/iceman404/github-readme-stats">
-  <img height=350 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=iceman404" />
-</a>
-
 <a href="https://github.com/iceman404/convoychat">
   <img height=400 width=500 align="center" src="https://streak-stats.demolab.com/?user=iceman404&theme=github-dark" />
 </a>
-
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=10&card_width=320)](https://git.io/streak-stats)
 
