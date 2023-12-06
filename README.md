@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   <img height=600 width=600 align="center" src="https://github-readme-stats.vercel.app/api?username=iceman404" />
 </a>
 <a href="https://github.com/iceman404/convoychat">
-  <img height=440 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=8&card_width=320" />
+  <img height=440 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=10&card_width=420" />
 </a>
 
 
