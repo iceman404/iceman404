@@ -20,7 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iceman404&theme=gruvbox-light)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=10&card_width=320)](https://git.io/streak-stats)
 
