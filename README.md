@@ -20,13 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-<a href="https://github.com/iceman404/convoychat">
-  <img height=320 width=700 align="center" src="https://streak-stats.demolab.com/?user=iceman404&theme=github-dark" />
-</a>
-<!--
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=10&card_width=320)](https://git.io/streak-stats)
---->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=iceman404&theme=gruvbox-light)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=10&card_width=320)](https://git.io/streak-stats)
+
 ---
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="37" height="37" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="37" height="37" /></div>
