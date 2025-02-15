@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ---
 #### 📈 GitHub Stats & Contributions
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: flex-start; gap: 0;">
   <a href="https://github.com/iceman404">
     <img height="200" width="480" align="center" src="https://github-readme-stats.vercel.app/api?username=iceman404" />
   </a>
@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
     <img height="200" width="320" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iceman404" />
   </a>
 </div>
+
 
 
 
