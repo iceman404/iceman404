@@ -27,6 +27,9 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=10&card_width=320)](https://git.io/streak-stats)
 ![Jokes](https://readme-jokes.vercel.app/api?theme=dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceman404&theme=github-dark&hide_border=true)
+![GitHub Pull Requests](https://github-readme-stats.vercel.app/api/pin/?username=iceman404&repo=advanced-redis-clone&theme=dark)
+![GitHub Issues](https://github-readme-stats.vercel.app/api/pin/?username=iceman404&repo=adpull-python&theme=dark)
+
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=iceman404&theme=dark&hide_border=true)  
