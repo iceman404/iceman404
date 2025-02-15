@@ -24,6 +24,28 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=iceman404&theme=dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&theme=dark&hide_border=true)
+
+<a href="https://github.com/iceman404">
+  <img height="200" align="center" src="https://streak-stats.demolab.com/?user=iceman404&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/iceman404">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/iceman404">
+  <img height="200" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=iceman404&theme=github-dark&hide_border=true" />
+</a>
+<a href="https://github.com/iceman404">
+  <img height="200" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iceman404&theme=github_dark" />
+</a>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
   <!-- Streak Stats -->
   <a href="https://github.com/iceman404">
