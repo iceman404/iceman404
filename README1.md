@@ -20,7 +20,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
+#### 📈 GitHub Stats & Contributions
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=iceman404&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&theme=dark&hide_border=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceman404&layout=compact&theme=dark&hide_border=true)  
+ 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=10&card_width=320)](https://git.io/streak-stats)
 
 ---
