@@ -36,9 +36,8 @@ You can click the Preview link to take a look at your changes.
 
   <!-- Fifth Image (Jokes Per Day) -->
   <a href="https://github.com/iceman404" style="flex: 0 0 320px;">
-    <img height="200" width="320" align="center" src="https://readme-jokes.vercel.app/api?theme=dark" />
-</a>
-
+    <img height="200" width="320" align="center" src="https://readme-jokes.vercel.app/api?theme=default" />
+  </a>
 </div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceman404&theme=github-compact&hide_border=true)
