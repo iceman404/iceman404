@@ -20,23 +20,24 @@ You can click the Preview link to take a look at your changes.
 ---
 #### 📈 GitHub Stats & Contributions
 
-<div style="display: flex; justify-content: flex-start; gap: 0;">
+<div style="display: flex; justify-content: flex-start; gap: 0; flex-wrap: wrap;">
   <a href="https://github.com/iceman404">
-    <img height="200" width="480" align="center" src="https://github-readme-stats.vercel.app/api?username=iceman404" />
+    <img height="200" width="480" align="center" style="flex-shrink: 0;" src="https://github-readme-stats.vercel.app/api?username=iceman404" />
   </a>
   <a href="https://github.com/iceman404/convoychat">
-    <img height="200" width="420" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404" />
+    <img height="200" width="420" align="center" style="flex-shrink: 0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404" />
   </a>
   <a href="https://github.com/iceman404">
-    <img height="200" width="880" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=iceman404&hide_border=true" />
+    <img height="200" width="880" align="center" style="flex-shrink: 0;" src="https://github-readme-activity-graph.vercel.app/graph?username=iceman404&hide_border=true" />
   </a>
   <a href="https://github.com/iceman404">
-    <img height="200" width="480" align="center" src="https://streak-stats.demolab.com/?user=iceman404&hide_border=true" />
+    <img height="200" width="480" align="center" style="flex-shrink: 0;" src="https://streak-stats.demolab.com/?user=iceman404&hide_border=true" />
   </a>
   <a href="https://github.com/iceman404">
-    <img height="200" width="320" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iceman404" />
+    <img height="200" width="320" align="center" style="flex-shrink: 0;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iceman404" />
   </a>
 </div>
+
 
 
 
