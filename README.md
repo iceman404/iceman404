@@ -25,10 +25,10 @@ You can click the Preview link to take a look at your changes.
     <img height="200" width="480" align="center" src="https://github-readme-stats.vercel.app/api?username=iceman404" />
   </a>
   <a href="https://github.com/iceman404/convoychat">
-    <img height="220" width="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=compact&langs_count=8&card_width=320" />
+    <img height="220" width="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404" />
   </a>
   <a href="https://github.com/iceman404">
-    <img height="200" width="800" align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=iceman404&hide_border=true" />
+    <img height="200" width="880" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=iceman404&hide_border=true" />
   </a>
   <a href="https://github.com/iceman404">
     <img height="200" width="480" align="center" src="https://streak-stats.demolab.com/?user=iceman404&hide_border=true" />
