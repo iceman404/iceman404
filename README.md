@@ -36,11 +36,11 @@ You can click the Preview link to take a look at your changes.
 
   <!-- Fifth Image (Commits Per Day) -->
   <a href="https://github.com/iceman404" style="flex: 0 0 320px;">
-    <img height="200" width="320" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iceman404" />
+    <img height="200" width="320" align="center" src="!https://readme-jokes.vercel.app/api?theme=light" />
   </a>
 </div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceman404&theme=github-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceman404&theme=github-compact&hide_border=true)
 
 
 
