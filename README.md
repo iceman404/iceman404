@@ -26,9 +26,9 @@ You can click the Preview link to take a look at your changes.
     <img height="200" width="480" align="center" src="https://github-readme-stats.vercel.app/api?username=iceman404" />
   </a>
 
-  <!-- Second Image (Languages) -->
+  <!-- Second Image (Languages - Donut Chart) -->
   <a href="https://github.com/iceman404/convoychat" style="flex: 0 0 420px;">
-    <img height="200" width="420" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404" />
+    <img height="200" width="420" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=doughnut&langs_count=8&card_width=320" />
   </a>
 
   <!-- Third Image (Activity Graph) -->
