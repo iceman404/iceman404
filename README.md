@@ -27,9 +27,9 @@ You can click the Preview link to take a look at your changes.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceman404&theme=github-dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=iceman404&theme=dark&hide_border=true)
-![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iceman404&theme=github_light)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceman404&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=iceman404&hide_border=true)
+![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iceman404)
 
 ---
 
