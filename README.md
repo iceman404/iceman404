@@ -23,35 +23,11 @@ You can click the Preview link to take a look at your changes.
 #### 📈 GitHub Stats & Contributions
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=iceman404&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&theme=dark&hide_border=true) 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=10&card_width=320)](https://git.io/streak-stats) ![Jokes](https://readme-jokes.vercel.app/api?theme=dark)![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iceman404&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&theme=dark&hide_border=true)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceman404&theme=github-dark&hide_border=true)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=10&card_width=320)](https://git.io/streak-stats) ![Jokes](https://readme-jokes.vercel.app/api?theme=dark)![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iceman404&theme=github_dark)
 ![GitHub Pull Requests](https://github-readme-stats.vercel.app/api/pin/?username=iceman404&repo=advanced-redis-clone&theme=dark)
 ![GitHub Issues](https://github-readme-stats.vercel.app/api/pin/?username=iceman404&repo=adpull-python&theme=dark)
-## 📊 My Programming Language Stats  
-[![Languages](https://raw.githubusercontent.com/iceman404/iceman404/main/languages.png)](https://iceman404.com/language.html)
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=10&card_width=500)
-## My WakaTime Stats
-
-[![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=iceman404&layout=compact&hide_title=true&hide_border=true)](https://github.com/iceman404/github-readme-stats)
-
-
-## My GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/iceman404/github-readme-stats)
-
-
-
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=iceman404&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceman404&layout=compact&theme=dark&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&theme=dark&hide_border=true)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceman404&theme=github-dark&hide_border=true)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=iceman404&color=blue&style=flat-square)  
-![Jokes](https://readme-jokes.vercel.app/api?theme=dark)  
 
 ---
 
