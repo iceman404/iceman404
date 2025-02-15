@@ -32,6 +32,14 @@ You can click the Preview link to take a look at your changes.
 ## 📊 My Programming Language Stats  
 [![Languages](https://raw.githubusercontent.com/iceman404/iceman404/main/languages.png)](https://iceman404.com/language.html)
 ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=10&card_width=500)
+## My WakaTime Stats
+
+[![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=iceman404&layout=compact&hide_title=true&hide_border=true)](https://github.com/iceman404/github-readme-stats)
+
+## My GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceman404&show_icons=true&hide_title=true&hide_border=true&count_private=true)](https://github.com/iceman404/github-readme-stats)
+
 
 
 
