@@ -30,7 +30,9 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Pull Requests](https://github-readme-stats.vercel.app/api/pin/?username=iceman404&repo=advanced-redis-clone&theme=dark)
 ![GitHub Issues](https://github-readme-stats.vercel.app/api/pin/?username=iceman404&repo=adpull-python&theme=dark)
 ## 📊 My Programming Language Stats  
-[![Languages](https://raw.githubusercontent.com/iceman404/iceman404/main/languages.png)](https://iceman404.com/languages.html)
+[![Languages](https://raw.githubusercontent.com/iceman404/iceman404/main/languages.png)](https://iceman404.com/language.html)
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=pie&langs_count=10&card_width=500)
+
 
 
 
