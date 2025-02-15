@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ---
 #### 📈 GitHub Stats & Contributions
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://github.com/iceman404">
     <img height="200" width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=iceman404" />
   </a>
