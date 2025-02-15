@@ -29,8 +29,8 @@ You can click the Preview link to take a look at your changes.
 </a>
 
   <!-- Third Image (Activity Graph) -->
-  <a href="https://github.com/iceman404" style="flex: 0 0 880px;">
-    <img height="200" width="880" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=iceman404&hide_border=true" />
+  <a href="https://github.com/iceman404">
+    <img height="200" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=iceman404&hide_border=true" />
   </a>
 
   <!-- Fourth Image (Streak) -->
