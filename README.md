@@ -29,6 +29,9 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iceman404&theme=github-dark&hide_border=true)
 ![GitHub Pull Requests](https://github-readme-stats.vercel.app/api/pin/?username=iceman404&repo=advanced-redis-clone&theme=dark)
 ![GitHub Issues](https://github-readme-stats.vercel.app/api/pin/?username=iceman404&repo=adpull-python&theme=dark)
+## 📊 My Programming Language Stats  
+[![Languages](https://raw.githubusercontent.com/iceman404/iceman404/main/languages.png)](https://iceman404.com/languages.html)
+
 
 
 
