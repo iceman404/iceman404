@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
   <!-- Fifth Image (Commits Per Day) -->
   <a href="https://github.com/iceman404" style="flex: 0 0 320px;">
-    <img height="200" width="320" align="center" src="!https://readme-jokes.vercel.app/api?theme=light" />
+    <img height="200" width="320" align="center" src="!https://readme-jokes.vercel.app/api?theme=dark" />
   </a>
 </div>
 
