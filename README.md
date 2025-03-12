@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 0;">
   <a href="https://github.com/iceman404/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=compact&langs_count=8&card_width=300" />
   </a>
 
 
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
   <!-- Fifth Image (Jokes Per Day) -->
   <a href="https://github.com/iceman404" style="flex: 0 0 320px;">
-    <img width="320" align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    <img width="300" align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </a>
 </div>
 
