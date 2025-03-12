@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
   <!-- Fifth Image (Jokes Per Day) -->
   <a href="https://github.com/iceman404" style="flex: 0 0 320px;">
-    <img width="300" align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    <img width="280" align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </a>
 </div>
 
