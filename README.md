@@ -21,18 +21,12 @@ You can click the Preview link to take a look at your changes.
 #### 📈 GitHub Stats & Contributions
 
 <div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 0;">
-  <a href="https://github.com/iceman404/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iceman404" />
-  </a>
   <a href="https://github.com/iceman404/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceman404&layout=compact&langs_count=8&card_width=320" />
   </a>
 
 
   <!-- Fourth Image (Streak) -->
-  <a href="https://github.com/iceman404" style="flex: 0 0 480px;">
-    <img height="200" width="480" align="center" src="https://streak-stats.demolab.com/?user=iceman404&hide_border=true" />
-  </a>
 
   <!-- Fifth Image (Jokes Per Day) -->
   <a href="https://github.com/iceman404" style="flex: 0 0 320px;">
